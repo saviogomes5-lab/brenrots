@@ -1,0 +1,42 @@
+body
+{
+background-color:#ef0125;
+}
+
+h1,h2
+{
+font-family: Tahoma, Georgia;
+ color: #45F200
+}
+
+p
+{
+font-size: 25px;
+ color: #45F200
+}
+
+section
+{
+	background-color:#ef0125;
+        font-family: Comic Sans MS, Comic Sans, cursive;
+        padding: 20px;
+}
+       
+footer
+{
+  background-color: #FFFFFF;
+  font-family: Arial Narrow;
+  padding: 35px;
+  color: #29CE0F;
+  font-size: 20px;
+  text-align: center;
+}
+
+img,video
+{
+max-widht: 50%;
+}
+form
+{
+ color: #45F200
+}
